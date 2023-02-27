@@ -1,0 +1,41 @@
+#main{
+    width: 700px;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: white;
+}
+#entry{
+    width: 300px;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: red;
+    float: left;
+}
+#show_items{
+     
+    width: 200px;
+    border-radius: 20px;
+    background-color: black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    float: left;
+}
+h1{
+    color: blue;
+}
+input{
+    padding: 5px;
+    border-radius: 20px;
+}
+#submit{
+    background-color: blue;
+    padding: 5px;
+    color: white;
+    border-radius: 20px;
+}
+li{
+    color: white;
+}
