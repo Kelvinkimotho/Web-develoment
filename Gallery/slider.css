@@ -1,0 +1,64 @@
+h1{
+    color: blue;
+}
+#main{
+    margin-top: 40px;
+    border-radius: 20px;
+    padding: 50px;
+    background-color:red;
+    width: 800px;
+    height: 300px;
+    margin-bottom: 50px;
+}
+#back,#next{
+   
+    padding: 5px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    float: left;
+    width: 90px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.float{
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.imgs{
+    width: 100px;
+    height: 100x;
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+#images{
+    width: 700px;
+    height: 100px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+#images{
+    display: block;
+}
+#back{
+    margin-top: 440px;
+}
+#next{
+    margin-top: 180px;
+}
+#my_image{
+    width: 500px;
+    height: 250px;
+    display: block;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 18px 20px;
+}
+#img_counter{
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
