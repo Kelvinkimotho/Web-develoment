@@ -1,0 +1,41 @@
+#signup,#sign_in{
+    width: 200px;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    background-color: green;
+
+}
+#submit{
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    width: 100px;
+    padding: 5px;
+}
+input{
+    border-radius: 20px;
+    padding: 5px;
+}
+#categories{
+    width: 500px;
+    background-color: black;
+    padding: 30px;
+    border-radius: 20px;
+}
+th{
+    color: blue;
+    margin: 10px;
+    font-size: x-large;
+    border: 3px solid white;
+    font-variant: small-caps;
+
+}
+td{
+    color: white;
+    border: 3px solid white;
+}
+#guide{
+    color: red;
+}
+

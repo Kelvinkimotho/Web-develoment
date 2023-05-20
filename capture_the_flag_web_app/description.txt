@@ -1,0 +1,10 @@
+In this project, i am trying to create a web application where students interested in cyber security can create account and practice cybersecurity concepts in a gamified way.
+
+I started by allowing the student to create a player account to be llowed to participate in any challenge. ie  the "signup.php"
+
+After creating a player Account, the student can login using his/her username and password to access the necessary resources.
+ ie. "login.php"
+
+After a succesfull login, the player is redirected to "categories.php" page for now. Else , the player is denied access to any other resource
+
+## i'm looking forward to come up with a complete project ,soon
