@@ -1,0 +1,28 @@
+div{
+    width: 500px;
+    padding: 30px;
+    margin-top: 30px;
+    border-radius: 20px;
+    background-color: grey;
+}
+input{
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+}
+.arithmetic{
+    width: 90px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+    border-radius: 20px;
+}
+#title{
+    color: red;
+}
+#answer{
+    color: red;
+    font-weight: 800;
+}
