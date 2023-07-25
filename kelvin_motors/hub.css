@@ -1,23 +1,24 @@
 #main{
     width: 1200px;
-    margin: 30px;
-    padding: 20px;
-    background-color: grey;
+    margin: 10px;
+    padding: 30px;
+    background-color: rgb(240, 59, 104);
     height: 600px;
+    border-radius: 20px;
 }
 span{
     color: blue;
 }
 #main_hr{
     width: 1100px;
-    border: 3px solid red;
+    border: 3px solid white;
 }
 #left{
     margin-top: 10px;
     margin-left: 5px;
     padding: 10px;
     width: 180px;
-    background-color: blue;
+    background-color: white;
     border-radius: 20px;
     float: left;
 }
@@ -42,8 +43,9 @@ span{
     width: 100px;
     padding: 5px;
     border-radius: 20px;
-    background-color: blue;
-    color: white;
+    background-color: white;
+    border: 2px solid black;
+    color: black;
 }
 #my_image{
     height: 250px;
@@ -58,4 +60,10 @@ span{
     background-color: white;
     margin-left: 10px;
     margin-top: 10px;
+}
+#previous:hover,#next:hover{
+    background-color: blue;
+}
+#my_image:hover{
+   transform: rotate(5deg);
 }

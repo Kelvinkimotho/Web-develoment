@@ -166,10 +166,299 @@ cars=[
         Brand:"Mercedes",
         Fuel:"Petrol",
         Price:"$135600"
-     }   
-                            
+     }  
+     ,
+     {
+      Name:"Bentley Bentayga",
+      image:"cars/Bentley Bentayga.png",
+      Brand:"Bentley",
+      Fuel:"Petrol",
+      Price:"$135600"
+   } ,
+   {
+      Name:"Bently Continental GT",
+      image:"cars/Bently Continental GT.png",
+      Brand:"Bentley",
+      Fuel:"Petrol",
+      Price:"$135600"
+   } ,
+   {
+      Name:"Bentley Flying Spur Hybrid",
+      image:"cars/Bentley Flying Spur Hybrid.png",
+      Brand:"Bentley",
+      Fuel:"Petrol",
+      Price:"$135600"
+   } ,
+   {
+   Name:"Volkswagen ID.4",
+   image:"cars/Volkswagen ID.4.png",
+   Brand:"Volkswagen",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+{
+   Name:"McLaren 765LT",
+   image:"cars/McLaren 765LT.png",
+   Brand:"McLaren",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+     {
+   Name:"McLaren 720S",
+   image:"cars/McLaren 720S.png",
+   Brand:"McLaren",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+   {
+   Name:"McLaren GT",
+   image:"cars/McLaren GT.png",
+   Brand:"McLaren",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+    {
+   Name:"Maserati MC20",
+   image:"cars/Maserati MC20.png",
+   Brand:"Maserati",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+ {
+   Name:"Maserati Gran Turismo",
+   image:"cars/Maserati Gran Turismo.png",
+   Brand:"Maserati",
+   Fuel:"Petrol",
+   Price:"$135600"
+} , 
+{
+   Name:"Ford Mustang",
+   image:"cars/Ford Mustang.png",
+   Brand:"Ford",
+   Fuel:"Petrol",
+   Price:"$135600"
+} , 
+{
+   Name:"Ford Bronco",
+   image:"cars/Ford Bronco.png",
+   Brand:"Ford",
+   Fuel:"Petrol",
+   Price:"$135600"
+} , 
+  {
+   Name:"Ford Mustang Mach-E",
+   image:"cars/Ford Mustang Mach-E.png",
+   Brand:"Ford",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+     {
+   Name:"Porsche Macan",
+   image:"cars/Porsche Macan.png",
+   Brand:"Porsche",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+      {
+   Name:"Porsche 718 Spyder",
+   image:"cars/Porsche 718 Spyder.png",
+   Brand:"Porsche",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+     {
+   Name:"Porsche Panamera Sport Turismo",
+   image:"cars/Porsche Panamera Sport Turismo.png",
+   Brand:"Porsche",
+   Fuel:"Petrol",
+   Price:"$135600"
+} , 
+   {
+   Name:"Porsche 718 Cayman",
+   image:"cars/Porsche 718 Cayman.png",
+   Brand:"Porsche",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+       {
+   Name:"Porsche 718 Boxster",
+   image:"cars/Porsche 718 Boxster.png",
+   Brand:"Porsche",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+
+       {
+   Name:"Porsche Cayenne",
+   image:"cars/Porsche Cayenne.png",
+   Brand:"Porsche",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+       {
+   Name:"Porsche 911",
+   image:"cars/Porsche 911.png",
+   Brand:"Porsche",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+       {
+   Name:"Porsche Taycan",
+   image:"cars/Porsche Taycan.png",
+   Brand:"Porsche",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+     {
+   Name:"Subaru Legacy",
+   image:"cars/Subaru Legacy.png",
+   Brand:"Subaru",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+ {
+   Name:"Subaru Solterra",
+   image:"cars/Subaru Solterra.png",
+   Brand:"Subaru",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+ {
+   Name:"Subaru Forester",
+   image:"cars/Subaru Forester.png",
+   Brand:"Subaru",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+{
+   Name:"Subaru Forester",
+   image:"cars/Subaru Forester.png",
+   Brand:"Subaru",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,
+  {
+   Name:"Subaru BRZ",
+   image:"cars/Subaru BRZ.png",
+   Brand:"Subaru",
+   Fuel:"Petrol",
+   Price:"$135600"
+} , 
+ {
+   Name:"Subaru Outback",
+   image:"cars/Subaru Outback.png",
+   Brand:"Subaru",
+   Fuel:"Petrol",
+   Price:"$135600"
+} , 
+  {
+   Name:"Subaru Ascent",
+   image:"cars/Subaru Ascent.png",
+   Brand:"Subaru",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,  
+ {
+   Name:"Subaru Crosstrek",
+   image:"cars/Subaru Crosstrek.png",
+   Brand:"Subaru",
+   Fuel:"Petrol",
+   Price:"$135600"
+} 
+ ,  
+ {
+   Name:"MINI Clubman",
+   image:"cars/MINI Clubman.png",
+   Brand:"MINI",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,  
+ {
+   Name:"MINI Convertible",
+   image:"cars/MINI Convertible.png",
+   Brand:"MINI",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,  
+ {
+   Name:"MINI Hardtop",
+   image:"cars/MINI Hardtop.png",
+   Brand:"MINI",
+   Fuel:"Petrol",
+   Price:"$135600"
+} ,  
+ {
+   Name:"MINI SE Hardtop",
+   image:"cars/MINI SE Hardtop.png",
+   Brand:"MINI",
+   Fuel:"Petrol",
+   Price:"$135600"
+},  
+ {
+   Name:"MINI Countryman",
+   image:"cars/MINI Countryman.png",
+   Brand:"MINI",
+   Fuel:"Petrol",
+   Price:"$135600"
+}
+,  
+ {
+   Name:"Nissan Z",
+   image:"cars/Nissan Z.png",
+   Brand:"Nissan",
+   Fuel:"Petrol",
+   Price:"$135600"
+},  
+ {
+   Name:"Toyota Supra",
+   image:"cars/Toyota Supra.png",
+   Brand:"Toyota",
+   Fuel:"Petrol",
+   Price:"$135600"
+},  
+ {
+   Name:"Jeep Gladiator",
+   image:"cars/Jeep Gladiator.png",
+   Brand:"Jeep",
+   Fuel:"Petrol",
+   Price:"$135600"
+},  
+ {
+   Name:"Jeep Wrangler",
+   image:"cars/Jeep Wrangler.png",
+   Brand:"Jeep",
+   Fuel:"Petrol",
+   Price:"$135600"
+},  
+ {
+   Name:"Jeep Grand Cherokee",
+   image:"cars/Jeep Grand Cherokee.png",
+   Brand:"Jeep",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Jeep Wrangler Unlimited",
+   image:"cars/Jeep Wrangler Unlimited.png",
+   Brand:"Jeep",
+   Fuel:"Petrol",
+   Price:"$135600"
+}
+, {
+   Name:"Jaguar E-PACE",
+   image:"cars/Jaguar E-PACE.png",
+   Brand:"Jaguar",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Jeep Wrangler unlimited 4xe",
+   image:"cars/Jeep Wrangler unlimited 4xe.png",
+   Brand:"Jeep",
+   Fuel:"Petrol",
+   Price:"$135600"
+}
 
 ]
+
 //car brands
 let brands=["Ferrari","Dodge","BMW","Mercedes","Audi","Nissan","Lamborghini"]
 //cars brands ul list
