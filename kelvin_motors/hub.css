@@ -2,9 +2,9 @@
     width: 1200px;
     margin: 10px;
     padding: 30px;
-    background-color: rgb(240, 59, 104);
     height: 600px;
     border-radius: 20px;
+    background-color: rgb(240, 59, 104);
 }
 span{
     color: blue;
@@ -66,4 +66,21 @@ span{
 }
 #my_image:hover{
    transform: rotate(5deg);
+}
+option{
+    color: blue;
+}
+select{
+    padding: 5px;
+    border-radius: 20px;
+    width: 100px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+#car_number{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+
 }

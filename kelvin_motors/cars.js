@@ -641,16 +641,16 @@ cars=[
 ]
 
 //car brands
-let brands=["Ferrari","Dodge","BMW","Mercedes","Audi","Nissan","Lamborghini"]
+let brands=["Ferrari","Dodge","BMW","Mercedes","Audi","Nissan","Lamborghini","Lotus","Mini","Chevrolet","Ford","Bucatti","subaru","Jeep","Jaguar","Toyota","Porsche"]
 //cars brands ul list
 document.addEventListener( `DOMContentLoaded`,function(){
-    //cars brands ul list
-    let cars_ul=document.querySelector("#brands");
-    for(let i=0;i<brands.length;i++){
-        let li=document.createElement("li");
-        li.innerHTML=`${brands[i]}`;
-        cars_ul.append(li);
-    }
+   //cars select_brands
+   let select=document.querySelector("#brands_select");
+   for(let b=0;b<brands.length;b++){
+      let option=document.createElement("option");
+      option.innerHTML=`${brands[b]}`;
+      select.append(option);
+   }
 
 //Cars info 
 let name_tag=document.querySelector("#car_name");
@@ -660,7 +660,10 @@ let price=document.querySelector("#Price");
 //next button implementation
 let show_image=document.querySelector("#my_image");
 let next_btn=document.querySelector("#next");
+let car_number=document.querySelector("#car_number");
 let image1_index=0
+let initial_car_number=1;
+car_number.innerHTML=`Car Number: ${initial_car_number}`;
 show_image.src=cars[image1_index].image;
 //initial car information
 name_tag.innerHTML=`<span>Name:</span> ${cars[image1_index].Name}`;
@@ -668,10 +671,16 @@ brand_name_tag.innerHTML=`<span>Brand:</span> ${cars[image1_index].Brand}`;
 fuel.innerHTML=`<span>Fuel:</span> ${cars[image1_index].Fuel}`;
 price.innerHTML=`<span>Price:</span> ${cars[image1_index].Price}`;
 
-//**************** */
+//********Next button */
 next_btn.onclick=()=>{
     image1_index+=1;
-    show_image.src=`${cars[image1_index].image}`;  
+    show_image.src=`${cars[image1_index].image}`; 
+    //car number increment 
+       if(initial_car_number<=cars.length){
+         initial_car_number+=1;
+         car_number.innerHTML=`Car Number: ${initial_car_number}`;
+       }
+      
     //car information
     name_tag.innerHTML=`<span>Name:</span> ${cars[image1_index].Name}`;
     brand_name_tag.innerHTML=`<span>Brand:</span>: ${cars[image1_index].Brand}`;
@@ -684,6 +693,8 @@ let previous_btn=document.querySelector("#previous");
 previous_btn.onclick=()=>{
         image1_index=image1_index-1;
         show_image.src=cars[image1_index].image;
+        initial_car_number-=1;
+        car_number.innerHTML=`Car Number: ${initial_car_number}`;
     //car information 
     name_tag.innerHTML=`<span>Name:</span> ${cars[image1_index].Name}`;
     brand_name_tag.innerHTML=`<span>Brand:</span>: ${cars[image1_index].Brand}`;
