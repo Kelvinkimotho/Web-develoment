@@ -456,7 +456,188 @@ cars=[
    Fuel:"Petrol",
    Price:"$135600"
 }
-
+, {
+   Name:"BMW Z4",
+   image:"cars/BMW Z4.jpg",
+   Brand:"BMW",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Dodge Challenger SRT",
+   image:"cars/Dodge Challenger SRT.jpg",
+   Brand:"Dodge",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Dodge Challenger SRT Demon",
+   image:"cars/Dodge Challenger SRT Demon.jpg",
+   Brand:"Dodge",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Dodge Challenger",
+   image:"cars/Dodge Challenger.jpg",
+   Brand:"Dodge",
+   Fuel:"Petrol",
+   Price:"$135600"
+}
+, {
+   Name:"Mini Cooper Coupe",
+   image:"cars/Mini Cooper Coupe.jpg",
+   Brand:"Mini",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Mini Cooper Coupe S",
+   image:"cars/Mini Cooper Coupe S.jpg",
+   Brand:"Mini",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Mini Cooper Clubman JCW",
+   image:"cars/Mini Cooper Clubman JCW.jpg",
+   Brand:"Mini",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Mini Cooper Roadster",
+   image:"cars/Mini Cooper Roadster.jpg",
+   Brand:"Mini",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"2020 Bucatti Chiron",
+   image:"cars/2020 Bucatti Chiron.jpg",
+   Brand:"Bucatti",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari California T",
+   image:"cars/Ferrari California T.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari Daytona SP3",
+   image:"cars/Ferrari Daytona SP3.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari LaFerrari",
+   image:"cars/Ferrari LaFerrari.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari F430",
+   image:"cars/Ferrari F430.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari F12berlinetta",
+   image:"cars/Ferrari F12berlinetta.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari F12berlinetta",
+   image:"cars/Ferrari F12berlinetta.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"2023 ford GT",
+   image:"cars/2023 ford GT.jpg",
+   Brand:"Ford",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Dodge viper",
+   image:"cars/Dodge viper.jpg",
+   Brand:"Dodge",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"BMW M8",
+   image:"cars/BMW M8.jpeg",
+   Brand:"BMW",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"BMW M2",
+   image:"cars/BMW M2.png",
+   Brand:"BMW",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Chevrolet Corvette Z06",
+   image:"cars/Chevrolet Corvette Z06.jpg",
+   Brand:"Chevrolet",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Chevrolet Camaro",
+   image:"cars/Chevrolet Camaro.png",
+   Brand:"Chevrolet",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"BMW Z4",
+   image:"cars/BMW Z4.jpg",
+   Brand:"BMW",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari F8 Tributo_Spider",
+   image:"cars/errari F8 Tributo_Spider.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari  812",
+   image:"cars/Ferrari  812.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari 296GTB",
+   image:"cars/Ferrari 296GTB.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Mini Aceman",
+   image:"cars/Mini Aceman.jpg",
+   Brand:"Mini",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari Roma",
+   image:"cars/Ferrari Roma.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Ferrari SF90 Stradale",
+   image:"cars/Ferrari SF90 Stradale.jpg",
+   Brand:"Ferrari",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"Lotus Emira2",
+   image:"cars/Lotus Emira2.png",
+   Brand:"Lotus",
+   Fuel:"Petrol",
+   Price:"$135600"
+}, {
+   Name:"lotus Emira",
+   image:"cars/lotus Emira.png",
+   Brand:"Lotus",
+   Fuel:"Petrol",
+   Price:"$135600"
+}
 ]
 
 //car brands
