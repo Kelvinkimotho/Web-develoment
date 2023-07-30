@@ -1,13 +1,16 @@
 #main{
-    width: 1200px;
     margin: 10px;
     padding: 30px;
-    height: 600px;
+    height: 750px;
     border-radius: 20px;
     background-color: rgb(240, 59, 104);
 }
+#nav_message{
+    background-color: grey;
+    border-radius: 20px;
+}
 span{
-    color: blue;
+    color: white;
 }
 #main_hr{
     width: 1100px;
@@ -17,7 +20,7 @@ span{
     margin-top: 10px;
     margin-left: 5px;
     padding: 10px;
-    width: 180px;
+    width: 190px;
     background-color: white;
     border-radius: 20px;
     float: left;
@@ -43,7 +46,7 @@ span{
     width: 100px;
     padding: 5px;
     border-radius: 20px;
-    background-color: white;
+    background-color: grey;
     border: 2px solid black;
     color: black;
 }
@@ -53,12 +56,12 @@ span{
     width: 300px;
 }
 #last_right{
-    width: 360px;
+    width: 420px;
     border-radius: 20px;
     padding: 5px;
     float: left;
     background-color: white;
-    margin-left: 10px;
+    margin-left: 15px;
     margin-top: 10px;
 }
 #previous:hover,#next:hover{
@@ -68,19 +71,20 @@ span{
    transform: rotate(5deg);
 }
 option{
-    color: blue;
+    color: white;
 }
 select{
     padding: 5px;
     border-radius: 20px;
-    width: 100px;
+    width: 120px;
     border: 3px solid black;
     margin-bottom: 20px;
+    background-color: grey;
 }
 #car_number{
     width: 300px;
     height: 40px;
     border-radius: 20px;
-    background-color: white;
+    background-color: grey;
 
 }

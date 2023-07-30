@@ -1,4 +1,11 @@
 cars=[
+   {
+      Name:"jaguar F-Type R",
+      image:"cars/jaguar F-Type R.jpg",
+      Brand:"Jaguar",
+      Fuel:"Petrol",
+      Price:"$345600"
+  },
      {
         Name:"Audi A4",
         image:"cars/Audi A4.png",
@@ -673,8 +680,16 @@ price.innerHTML=`<span>Price:</span> ${cars[image1_index].Price}`;
 
 //********Next button */
 next_btn.onclick=()=>{
+   if(image1_index==cars.length){
+         image1_index=0;
+         show_image.src=cars[image1_index].image;
+         //back to car number one
+         initial_car_number=0;
+         car_number.innerHTML=`Car Number: ${initial_car_number}`;
+   }else{
     image1_index+=1;
     show_image.src=`${cars[image1_index].image}`; 
+   }
     //car number increment 
        if(initial_car_number<=cars.length){
          initial_car_number+=1;
@@ -700,6 +715,14 @@ previous_btn.onclick=()=>{
     brand_name_tag.innerHTML=`<span>Brand:</span>: ${cars[image1_index].Brand}`;
     fuel.innerHTML=`<span>Fuel:</span>: ${cars[image1_index].Fuel}`;
     price.innerHTML=`<span>Price:</span> ${cars[image1_index].Price}`;
+}
+//image.ondbclick
+let images=document.querySelectorAll("img");
+let image_4_desc=document.querySelector("#image_4_desc");
+for(let i=0;i<images.length;i++){
+   images[i].ondblclick=()=>{
+      //alert("Hello world");
+   }
 }
 
 })
